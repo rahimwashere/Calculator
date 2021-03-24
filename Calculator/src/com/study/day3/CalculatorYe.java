@@ -9,7 +9,7 @@ public class CalculatorYe {
 		
 		Scanner sc = new Scanner(System.in);
 		
-	System.out.println("Give me the 1st number");
+	System.out.println("Give me the 1st number please");
 
 	int x = sc.nextInt();
 	
